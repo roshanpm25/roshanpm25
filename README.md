@@ -31,10 +31,10 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/css3.png" />
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
   <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-  <img height="50" src="https://img.icons8.com/ios-filled/50/000000/express-js.png" />
+  <img height="50" src="https://icons8.com/icon/SDVmtZ6VBGXt/express-js" />
   <img height="50" src="https://img.icons8.com/officel/80/react.png" />
   <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-  <img height="50" src="https://img.icons8.com/ios-filled/50/000000/sql.png" />
+  <img height="50" src="https://icons8.com/icon/ywH6EJgZ7sm5/sql" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 <p>
   <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
   <img height="50" src="https://img.icons8.com/material-outlined/48/000000/github.png" />
-  <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+  
 </p>
 ---
 
@@ -60,8 +60,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/arsrosh?theme=dark)](https://leetcode.com/u/arsrosh/)  
 🔗 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1abc9c?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/arsrrun1/)
 
-🔗 [Skillrack](http://www.skillrack.com/profile/407243/85a553b662e05560a1970547dfebd1b2fd08136a)
-
+🔗 [![Skillrack](https://img.shields.io/badge/Skillrack-0066ff?style=for-the-badge)](http://www.skillrack.com/profile/407243/85a553b662e05560a1970547dfebd1b2fd08136a)
 ---
 ## 📈 GitHub Contribution Graph
 
