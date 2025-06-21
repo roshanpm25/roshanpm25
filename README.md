@@ -31,7 +31,7 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/css3.png" />
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
   <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img height="50" src="https://img.icons8.com/ios-filled/50/000000/express-js.png" />
+<img height="50" src="https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000" />
   <img height="50" src="https://img.icons8.com/officel/80/react.png" />
   <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
  <img height="50" src="https://img.icons8.com/?size=100&id=6o3xw2TdxzCR&format=png&color=000000" />
@@ -45,7 +45,7 @@
 
 <p>
   <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-  <img height="50" src="https://img.icons8.com/material-outlined/48/000000/github.png" />
+  <img height="50" src="https://img.icons8.com/?size=100&id=12598&format=png&color=000000" />
   
 </p>
 
