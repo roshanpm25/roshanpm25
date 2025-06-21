@@ -31,10 +31,11 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/css3.png" />
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
   <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-  <img height="50" src="https://icons8.com/icon/SDVmtZ6VBGXt/express-js" />
+<img height="50" src="https://img.icons8.com/ios-filled/50/000000/express-js.png" />
   <img height="50" src="https://img.icons8.com/officel/80/react.png" />
   <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-  <img height="50" src="https://icons8.com/icon/ywH6EJgZ7sm5/sql" />
+<img height="50" src="https://img.icons8.com/ios-filled/50/000000/sql.png" />
+
 </p>
 
 ---
