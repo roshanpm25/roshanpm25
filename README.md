@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" width="300" height="290" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" width="300" height="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 ## 🚀 Projects
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 🛠️ IDEs & Tools
+### 🛠️ IDEs & Tools I Use
 
 <p>
   <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
