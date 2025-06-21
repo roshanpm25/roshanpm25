@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Roshan P M!
+![image](https://github.com/user-attachments/assets/45d79312-9d75-4b97-b887-9883906a0157)# 👋 Hi there, I'm Roshan P M!
 
 🎓 Final-year Computer Science and Engineering student.
 🔭 Currently working on real-time feedback systems, resume rankers, and e-commerce platforms. 
@@ -79,5 +79,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshanpm25)
 
 ---
-
+<!-- GitHub Activity Graph -->
+[![Roshan's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roshanpm25&theme=tokyonight&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 > _“Code is poetry. Build with purpose, debug with patience, and deploy with pride.”_
