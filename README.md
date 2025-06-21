@@ -21,20 +21,23 @@
 
 ---
 
-## 🛠️ Tech Stack
+## I code in
 
-### Languages  
-`Java` `C` `HTML` `CSS` `JavaScript`
+<img height="50" width="50" src="https://icons8.com/icon/40670/c-programming"/> 
+<img height="50" width="50" src="https://icons8.com/icon/13679/java"/> 
+<img height="50" width="50" src="https://icons8.com/icon/20909/html-5"/> 
+<img height="50" width="50" src="https://icons8.com/icon/21278/css3"/> 
+<img height="50" width="50" src="https://icons8.com/icon/108784/javascript"/>
+<img height="50" width="50" src="https://icons8.com/icon/8rKdRqZFLurS/mongodb"/>
+<img height="50" width="50" src="https://icons8.com/icon/kg46nzoJrmTR/express-js"/> 
+<img height="50" width="50" src="https://icons8.com/icon/123603/react-native"/>
+<img height="50" width="50" src="https://icons8.com/icon/hsPbhkOH4FMe/node-js"/>
+<img height="50" width="50" src="https://icons8.com/icon/J6KcaRLsTgpZ/sql"/> 
 
-### Tools & Frameworks  
-`React` `Node.js` `Express.js` `MongoDB` `SQL` `FastAPI` `GitHub` `VS Code`
-
----
-
-## 📜 Certifications
-- Meta Front-End Developer Professional Certificate  
-- Introduction to MongoDB (for Students)  
-- NPTEL: Software Testing (Elite)
+### IDE and Tools I use 
+<img height="50" width="50" src="https://icons8.com/icon/48455/visual-studio"/> 
+<img height="50" width="50" src="https://icons8.com/icon/16318/github"/> 
+<img height="50" width="50" src="https://icons8.com/icon/hsPbhkOH4FMe/node-js"/> 
 
 ---
 
@@ -48,8 +51,17 @@
 ## 📊 Leetcode & Platforms
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/arsrosh?theme=dark)](https://leetcode.com/u/arsrosh/)  
-🔗 [GeeksforGeeks](https://www.geeksforgeeks.org/user/arsrrun1/)  
+🔗 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1abc9c?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/arsrrun1/)
+
 🔗 [Skillrack](http://www.skillrack.com/profile/407243/85a553b662e05560a1970547dfebd1b2fd08136a)
+
+---
+## 📈 GitHub Contribution Graph
+
+[![Roshan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roshanpm25&bg_color=0d1117&color=ffffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/roshanpm25)
+
+
+
 
 ---
 
