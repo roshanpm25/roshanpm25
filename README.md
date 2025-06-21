@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/45d79312-9d75-4b97-b887-9883906a0157)# 👋 Hi there, I'm Roshan P M!
+#👋 Hi there, I'm Roshan P M!
 
 🎓 Final-year Computer Science and Engineering student.
 🔭 Currently working on real-time feedback systems, resume rankers, and e-commerce platforms. 
