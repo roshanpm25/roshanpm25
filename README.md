@@ -1,4 +1,4 @@
-##👋 Hi there, I'm Roshan P M!
+👋 Hi there, I'm Roshan P M!
 
 🎓 Final-year Computer Science and Engineering student.
 🔭 Currently working on real-time feedback systems, resume rankers, and e-commerce platforms. 
