@@ -21,23 +21,27 @@
 
 ---
 
-## I code in
+### I code in
 
-<img height="50" width="50" src="https://icons8.com/icon/40670/c-programming"/> 
-<img height="50" width="50" src="https://icons8.com/icon/13679/java"/> 
-<img height="50" width="50" src="https://icons8.com/icon/20909/html-5"/> 
-<img height="50" width="50" src="https://icons8.com/icon/21278/css3"/> 
-<img height="50" width="50" src="https://icons8.com/icon/108784/javascript"/>
-<img height="50" width="50" src="https://icons8.com/icon/8rKdRqZFLurS/mongodb"/>
-<img height="50" width="50" src="https://icons8.com/icon/kg46nzoJrmTR/express-js"/> 
-<img height="50" width="50" src="https://icons8.com/icon/123603/react-native"/>
-<img height="50" width="50" src="https://icons8.com/icon/hsPbhkOH4FMe/node-js"/>
-<img height="50" width="50" src="https://icons8.com/icon/J6KcaRLsTgpZ/sql"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+<img height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/express-js.png" />
+<img height="50" width="50" src="https://img.icons8.com/officel/80/react.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+<img height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/sql.png" />
 
-### IDE and Tools I use 
-<img height="50" width="50" src="https://icons8.com/icon/48455/visual-studio"/> 
-<img height="50" width="50" src="https://icons8.com/icon/16318/github"/> 
-<img height="50" width="50" src="https://icons8.com/icon/hsPbhkOH4FMe/node-js"/> 
+---
+
+### 🛠️ IDEs & Tools
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img height="50" width="50" src="https://img.icons8.com/material-outlined/48/000000/github.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+
 
 ---
 
